@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 Current Role
 
-### 🔹 **Data Engineer (Apprentice) @ BBR Energie**  
+### 🔹 **Data Engineer (Apprentice) @BBR-Energie**  
 📅 *Sept 2023 – Jul 2025*  
 - Built 20+ HR dashboards in **Metabase** and 4 thermal data apps using **Streamlit**  
 - Developed ETL pipelines and deployed 10+ dataloggers for **InfluxDB**  
