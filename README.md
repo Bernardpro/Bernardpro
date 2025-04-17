@@ -45,6 +45,12 @@
 ---
 
 ## 📂 Featured Projects
+🤖 **[Spectrum App](https://spectrum-app.fr/)**  
+*Mobile app supporting adults with autism through a personalized assistant*  
+- Built a **Retrieval-Augmented Generation (RAG)** system for administrative guidance  
+- Implemented a recommendation engine for personalized suggestions  
+- Built a backend API in **PHP Symfony** 
+
 
 📦 **[Supply Chain Sentiment Analysis – Shadow](https://github.com/qhesry/datascientest_satisfaction_client)**  
 📅 *Feb 2023 – Jul 2023*  
