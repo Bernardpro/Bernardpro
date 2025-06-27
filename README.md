@@ -45,12 +45,37 @@
 ---
 
 ## 📂 Featured Projects
+
 🤖 **[Spectrum App](https://spectrum-app.fr/)**  
 *Mobile app supporting adults with autism through a personalized assistant*  
 - Built a **Retrieval-Augmented Generation (RAG)** system for administrative guidance  
 - Implemented a recommendation engine for personalized suggestions  
 - Built a backend API in **PHP Symfony** 
 
+🏠 **[ImmoScope](https://github.com/Bernardpro/ImmoScope)**  
+📅 2024 – 2025
+*Interactive big data platform for exploring the French real estate market*
+- Integrated large-scale datasets, interactive maps, and advanced analytics
+- Built with Python, PostGIS, and Leaflet for geospatial visualization
+
+☸️ **[ClusterGKE](https://github.com/Bernardpro/ClusterGKE)**  
+📅 2025
+*GitOps-ready Kubernetes setup to deploy a PHP Laravel sample app on Google Kubernetes Engine (GKE)*
+- CI/CD automation with ArgoCD and Helm
+- Includes certifacat https management and autoscaling policies
+
+☁️ **[ClusterGCP](https://github.com/Bernardpro/ClusterGCP)**  
+📅 2025
+*Kubernetes infrastructure for deploying a Laravel app on Google Cloud Platform*
+- CI/CD automation with ArgoCD and Helm
+- Infrastructure-as-Code approach with GitOps principles
+- Focused on production-grade configuration and observability
+
+📊 **[CryptoScope](https://github.com/Bernardpro/CryptoScope)**  
+📅 2024 – 2025
+*Designed a web scraping pipeline to gather real-time cryptocurrency market data*
+- Built Grafana dashboards for interactive data visualizations
+- Used Python (Airflow), BeautifulSoup, SparkStreaming and InfluxDB for time-series data processing
 
 📦 **[Supply Chain Sentiment Analysis – Shadow](https://github.com/qhesry/datascientest_satisfaction_client)**  
 📅 *Feb 2023 – Jul 2023*  
